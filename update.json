@@ -3,6 +3,10 @@
     "update": {
       "text": "Hello",
       "version": 1.1
+    },
+    "orders" : {
+      "order1" : {"type":"led_prompt", "function":"on", "pin":2, "delay":5},
+      "order2" : {"type":"led_prompt", "function":"on", "pin":2, "delay":2},
     }
   }
 }

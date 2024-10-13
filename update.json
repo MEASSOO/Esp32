@@ -6,7 +6,7 @@
     },
     "orders" : {
       "order1" : {"type":"led_prompt", "function":"on", "pin":2, "delay":5},
-      "order2" : {"type":"led_prompt", "function":"on", "pin":2, "delay":2},
+      "order2" : {"type":"led_prompt", "function":"off", "pin":2, "delay":2},
     }
   }
 }
